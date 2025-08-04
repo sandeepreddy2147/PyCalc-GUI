@@ -48,3 +48,11 @@ create_* methods: These methods are responsible for building the visual elements
 on_button_press: This is the central event handler. It directs the flow of logic based on which button the user clicks.
 
 Calculation Logic: A series of methods handle appending numbers/operators, evaluating the final expression using eval(), and managing the calculator's state.
+
+Future Improvements
+
+Keyboard Support: Implement functionality to allow users to type calculations directly from their keyboard.
+
+Scientific Functions: Add advanced mathematical functions like square root, sine, cosine, and tangent.
+
+Calculation History: Add a feature to view a log of recent calculations.
